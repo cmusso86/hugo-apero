@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Olá, meu nome é Carolina Musso, mas pode me chamar de Carol : ) .
+  Carolina Musso
 ---
 
 <!-- this is a subheadline -->
