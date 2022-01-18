@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Sou Ecóloga no currículo, Epidemiologista na prática e Estatística no coração. 
+Sou Ecóloga no currículo, Epidemiologista na prática e Estatística no coração (e provavelmente no futuro). 
 
 Essa página é uma tentativa de reunir esse conhecimento de forma coesa e que faça sentido primeiro pra mim, e depois para mais alguém que se interesse...
