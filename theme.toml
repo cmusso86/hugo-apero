@@ -1,9 +1,9 @@
-name = "Apéro"
+name = "Carolina"
 license = "CC-BY-4.0"
-licenselink = "https://github.com/hugo-apero/hugo-apero/blob/master/LICENSE.md"
-description = "A Hugo theme you'll want to hang out with."
+licenselink = "https://github.com/cmusso86/hugo-apero/blob/master/LICENSE.md"
+description = "Bióloga aspirante a estatística - to editando isso ainda..."
 homepage = "https://hugo-apero.netlify.app"
-tags = ["blog", "personal", "portfolio", "responsive", "customizable"]
+tags = ["blog", "pessoal", "currículo", "responsive", "customizable"]
 features = ["blog", "projects", "talks", "events", "collections", "contact form"]
 min_version = "0.79.0"
 
